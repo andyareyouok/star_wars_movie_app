@@ -1,0 +1,15 @@
+{
+  "name": "starwarsapp",
+  "version": "1.0.0",
+  "description": "basic movie app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
